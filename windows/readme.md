@@ -10,7 +10,7 @@ Run the following commands in Powershell terminal to customize OS:
     Set-WinSystemLocale -SystemLocale sl-SI
 
     # Set Slovenian regional format (date, time, currency, etc.)
-    Set-WinHomeLocation -GeoId 181  # Slovenia's GeoID is 181
+    Set-WinHomeLocation -GeoId 212  # Slovenia's GeoID is 212
     Set-Culture -CultureInfo sl-SI
 
     # Set Slovenian date/time formats for current user
