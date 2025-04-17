@@ -1,6 +1,6 @@
-# Primerjava kreditov
+# Stanovanjski krediti
 
-V tem dokumentu bom predstavil podatke za primerjavo kreditov različnih slovneskih bank. Podatki se nanašajo na obdobje 15. April. 
+V tem dokumentu bom predstavil podatke za primerjavo kreditov različnih slovneskih bank. Podatki se nanašajo na obdobje 15. April, so informativne narave in se lahko spremenijo
 
 ## Več informacij
 
@@ -10,16 +10,32 @@ V tem dokumentu bom predstavil podatke za primerjavo kreditov različnih slovnes
 
 [Vse o stanovanjskem kreditu](https://www.zurnal24.si/uporabno/pot-do-vasih-kvadratov-srece-je-lahko-prijetna-329296)
 
-## Podatki kredita
+## Kako začeti
 
-Za kredit sem vzel znesek 80.000. Predvideval sem, da stranka vzame namenski kredit za stanovanja, ki je zavarovan z hipoteko. Kredit se obračuna glede na fiksno obrestno mero in odplačuje za dobo 20 let. Stranka ni komitent in da v kreditu niso upoštevane dodatni benefiti. Podatki so informativne narave in se lahko spremenijo
+Preden vzamemo kredit se je dobro pozanimati o naši kreditni sporobnosti. To ugotovimo tako, da analiziramo naše redne prihodke in stroške. Iz tega se lahko odločimo, kako visok znesek si lahko sposodimo in za kakšno obdobje. Če vzamemo posojilo za premajhno obdobje, bo mesečni obrok previsok in od prihodka ne bomo imeli privarčevanih sredstev. 
 
-## Razlaga podatkov
+Naredimo si načrt odplačevanja. tukaj upoštevamo vse pridobljene podatke.
+
+## Pridobivanje ponudb kredita
+
+V postopku pridobivanja personaliziranih ponudb je zelo priporočljivo, da pridobimo ponudbe večih bank. Banke lahko poleg standardne ponudbe ponujajo še boljše pogoje kredita za komitente (stranke), za kombinacije paketov, za dodatna zavarovanja posojila itd. Ko imamo več ponudb, se lažje odločimo. 
+
+
+## Primerjava bančnih pogojev jemanja kredita
+
+### Podatki kredita
+
+Za kredit sem vzel znesek 80.000. Predvideval sem, da stranka vzame namenski kredit za stanovanja, ki je zavarovan z hipoteko. Kredit se obračuna glede na fiksno obrestno mero in odplačuje za dobo 20 let. Stranka ni komitent in da v kreditu niso upoštevane dodatni benefiti. 
+
+### Razlaga podatkov
+
+Mesečni znesek: Znesek odplačevanja kredita. Se izračuna glede na obrestno mero.
 
 EOM: Efektiva obrestna mera predstavlja razmerje med izposjenim zneskom in celotnim stroškom posojila
 
 
-## Tabela podatkov
+
+### Tabela podatkov
 
 |Ime banke|mesečni znesek|Obrestna mera|EOM|Povezava na izračun
 |----|---|---|---|---|
