@@ -16,9 +16,13 @@ Preden vzamemo kredit se je dobro pozanimati o naši kreditni sporobnosti. To ug
 
 Naredimo si načrt odplačevanja. tukaj upoštevamo vse pridobljene podatke.
 
+([vir](https://blog.lumar.si/6-korakov-do-varnega-najema-hipotekarnega-kredita))
+
 ## Pridobivanje ponudb kredita
 
 V postopku pridobivanja personaliziranih ponudb je zelo priporočljivo, da pridobimo ponudbe večih bank. Banke lahko poleg standardne ponudbe ponujajo še boljše pogoje kredita za komitente (stranke), za kombinacije paketov, za dodatna zavarovanja posojila itd. Ko imamo več ponudb, se lažje odločimo. 
+
+## Predčasno odplačevanje kredita
 
 
 ## Primerjava bančnih pogojev jemanja kredita
