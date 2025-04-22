@@ -10,6 +10,10 @@ V tem dokumentu bom predstavil podatke za primerjavo kreditov različnih slovnes
 
 [Vse o stanovanjskem kreditu](https://www.zurnal24.si/uporabno/pot-do-vasih-kvadratov-srece-je-lahko-prijetna-329296)
 
+[Na kaj moramo paziti](https://www.informiran.si/portal.aspx?content=pasti-pri-nakupu-nepremicnine&showMenu=1&showRightFrame=1)
+
+[Vodič po nakupu](https://www.op-svab.com/kratek-vodic-ob-nakupu-nepremicnine/)
+
 ## Kako začeti
 
 Preden vzamemo kredit se je dobro pozanimati o naši kreditni sporobnosti. To ugotovimo tako, da analiziramo naše redne prihodke in stroške. Iz tega se lahko odločimo, kako visok znesek si lahko sposodimo in za kakšno obdobje. Če vzamemo posojilo za premajhno obdobje, bo mesečni obrok previsok in od prihodka ne bomo imeli privarčevanih sredstev. 
