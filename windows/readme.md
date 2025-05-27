@@ -32,3 +32,8 @@ Run the following commands in Powershell terminal to customize OS:
     # Refresh the settings
     $null = [System.Globalization.CultureInfo]::CurrentCulture.ClearCachedData()
       
+# Auto installation
+
+[Ninite](https://ninite.com/)
+
+[Chocolatey](https://chocolatey.org/)
