@@ -36,4 +36,4 @@ Run the following commands in Powershell terminal to customize OS:
 
 [Ninite](https://ninite.com/)
 
-[Chocolatey](https://chocolatey.org/)
+[Chocolatey](https://docs.chocolatey.org/en-us/choco/setup/#install-with-cmd.exe)
