@@ -38,3 +38,13 @@ backend/
 ├── tsconfig.json            # TypeScript config
 └── README.md                # Project documentation
 ```
+
+## Java project setup
+
+1. Install Intellij Community edition. Java anv Maven will be installed along with that. In installation, make sure to select Java OpenJDK main version (not early access)
+
+2. Check if environment variable *JAVA_HOME* is set to a installed version of Java. Also check that environment varibale *MAVEN_HOME* is also properly set to Maven installation.
+
+3. Open desired project, go to settings - Build, execution and deployment - Compiler and enable *Enable annotation processing*
+
+4. Go to project home directory, right click on Maven file and select *Add maven project*
