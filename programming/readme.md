@@ -38,3 +38,9 @@ backend/
 ├── tsconfig.json            # TypeScript config
 └── README.md                # Project documentation
 ```
+
+## Java links
+
+[Java Full Course + exercises ](https://www.youtube.com/watch?v=xTtL8E4LzTQ)
+[Advanced Java Full Course 2023](https://www.youtube.com/watch?v=Ae-r8hsbPUo)
+[Hands-on Java - All-in-One Tutorial Series](https://www.youtube.com/watch?v=Ux0Yzedi3Xc)
